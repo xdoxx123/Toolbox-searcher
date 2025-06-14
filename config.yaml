@@ -1,0 +1,5 @@
+# Name of the log file
+Logfilename: "itworks.json"
+
+# Timeout before each request
+Timeout: 0
